@@ -1,0 +1,9 @@
+C:\Users\kylecoppedge\Source\Repos\shell3\shell\bin\Debug\shell.exe.config
+C:\Users\kylecoppedge\Source\Repos\shell3\shell\bin\Debug\shell.exe
+C:\Users\kylecoppedge\Source\Repos\shell3\shell\bin\Debug\shell.pdb
+C:\Users\kylecoppedge\Source\Repos\shell3\shell\obj\Debug\shell.csprojAssemblyReference.cache
+C:\Users\kylecoppedge\Source\Repos\shell3\shell\obj\Debug\shell.Properties.Resources.resources
+C:\Users\kylecoppedge\Source\Repos\shell3\shell\obj\Debug\shell.csproj.GenerateResource.cache
+C:\Users\kylecoppedge\Source\Repos\shell3\shell\obj\Debug\shell.exe
+C:\Users\kylecoppedge\Source\Repos\shell3\shell\obj\Debug\shell.pdb
+C:\Users\kylecoppedge\Source\Repos\shell3\shell\obj\Debug\shell.Form1.resources
